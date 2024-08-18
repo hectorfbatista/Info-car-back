@@ -1,5 +1,5 @@
 # Info-car-back
-Projeto criado para o desafio da empresa Info Tecnologia
+Projeto criado para o estudo de NodeJs.
 
 ## Iniciando o projeto
 
